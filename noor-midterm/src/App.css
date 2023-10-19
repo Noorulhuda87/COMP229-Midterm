@@ -1,0 +1,30 @@
+ 
+ .container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+ 
+ h1{
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font:bolder;
+}
+
+body{
+  background-color: rgb(180, 189, 194);
+}
+
+.custom-submit-button {
+  background-color: rgb(41, 50, 53); 
+  color: rgb(252, 249, 249);
+}
+
+label {
+  font-weight: bold;
+}
+
+
+
